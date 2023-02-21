@@ -1,1 +1,1 @@
-https://byt3h3ad.github.io/projects
+lightweight website using basic HTML to keep a log of the projects I work on. stacked in order of recency.
